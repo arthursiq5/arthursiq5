@@ -13,6 +13,8 @@ My favorite languages are:
 - PHP 🐘
 - Python 🐍
 - Shell script 🐚
+- Batch Script 💾
+
 
 I really like to learn and also new challenges. I like to teach too, even if I don't have many students.
 
