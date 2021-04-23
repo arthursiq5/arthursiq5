@@ -15,6 +15,10 @@ My favorite languages are:
 - Shell script 🐚
 - Batch Script 💾
 
+My favorite web projects:
+
+- [RaccoonPo (Jokenpo)][RaccoonPo] [source][RaccoonPo source]
+- [Rock Paper Scissors in Vanilla JS][rock-paper-scissors-js] [source][rock-paper-scissors-js source]
 
 I really like to learn and also new challenges. I like to teach too, even if I don't have many students.
 
@@ -29,3 +33,7 @@ Let's change the world together? 🌎
    [univates]: https://www.univates.br/
    [eeepe]: https://www.eeepe.com.br/[
    [quack]: https://quackredacao.com.br/
+   [RaccoonPo]: https://arthursiq5.github.io/RaccoonPo/
+   [RaccoonPo source]: https://github.com/arthursiq5/RaccoonPo/
+   [rock-paper-scissors-js]: https://arthursiq5.github.io/rock-paper-scissors-js/
+   [rock-paper-scissors-js source]: https://github.com/arthursiq5/rock-paper-scissors-js
