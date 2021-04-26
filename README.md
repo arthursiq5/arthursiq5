@@ -19,6 +19,7 @@ My favorite web projects:
 
 - [RaccoonPo (Jokenpo)][RaccoonPo] [source][RaccoonPo source]
 - [Rock Paper Scissors in Vanilla JS][rock-paper-scissors-js] [source][rock-paper-scissors-js source]
+- [Pokédex with vanilla JS][vanilla-pokedex] [source][vanilla-pokedex source]
 
 I really like to learn and also new challenges. I like to teach too, even if I don't have many students.
 
@@ -37,3 +38,6 @@ Let's change the world together? 🌎
    [RaccoonPo source]: https://github.com/arthursiq5/RaccoonPo/
    [rock-paper-scissors-js]: https://arthursiq5.github.io/rock-paper-scissors-js/
    [rock-paper-scissors-js source]: https://github.com/arthursiq5/rock-paper-scissors-js
+   [vanilla-pokedex]: https://arthursiq5.github.io/vanilla-pokedex/
+   [vanilla-pokedex source]: https://github.com/arthursiq5/vanilla-pokedex
+   
