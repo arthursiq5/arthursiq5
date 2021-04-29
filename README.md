@@ -25,6 +25,10 @@ I really like to learn and also new challenges. I like to teach too, even if I d
 
 Let's change the world together? 🌎
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursiq5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcaldeira)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/arthursiq5/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" width="20px"/></a>
   <a href="https://quackredacao.com.br/"><img src="https://img.icons8.com/doodle/48/000000/rubber-duck.png" width="20px"/></a>
