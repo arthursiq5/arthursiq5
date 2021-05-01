@@ -15,11 +15,14 @@ My favorite languages are:
 - Shell script <img src="https://img.icons8.com/dusk/48/000000/wildebeest.png" width="15px"/>
 - Batch Script <img src="https://img.icons8.com/offices/30/000000/windows-10.png" width="15px"/>
 
-My favorite web projects:
+<details markdown="block">
+  <summary>My favorite web projects:</summary>
 
 - [RaccoonPo (Jokenpo)][RaccoonPo] [source][RaccoonPo source]
 - [Rock Paper Scissors in Vanilla JS][rock-paper-scissors-js] [source][rock-paper-scissors-js source]
 - [Pokédex with vanilla JS][vanilla-pokedex] [source][vanilla-pokedex source]
+
+</details>
 
 I really like to learn and also new challenges. I like to teach too, even if I don't have many students.
 
