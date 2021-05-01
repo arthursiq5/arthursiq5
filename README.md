@@ -8,12 +8,12 @@ I'm currently unemployed, but I keep studying and perfecting my skills.
 
 My favorite languages are:
 
-- Ruby 💎
-- JavaScript/Typescript
-- PHP 🐘
-- Python 🐍
-- Shell script 🐚
-- Batch Script 💾
+- Ruby <img src="https://img.icons8.com/offices/30/000000/ruby-programming-language.png" width="15px"/>
+- JavaScript/Typescript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="15px"/>
+- PHP <img src="https://img.icons8.com/offices/30/000000/elephant.png" width="15px"/>
+- Python <img src="https://img.icons8.com/color/48/000000/snake.png" width="15px"/>
+- Shell script <img src="https://img.icons8.com/dusk/48/000000/wildebeest.png" width="15px"/>
+- Batch Script <img src="https://img.icons8.com/offices/30/000000/windows-10.png" width="15px"/>
 
 My favorite web projects:
 
