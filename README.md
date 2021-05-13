@@ -34,10 +34,10 @@ Let's change the world together? 🌎
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthursiq5/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" width="20px"/></a>
-  <a href="https://quackredacao.com.br/"><img src="https://img.icons8.com/doodle/48/000000/rubber-duck.png" width="20px"/></a>
-  <a href="https://www.sololearn.com/Profile/1548120"><img src="https://www.sololearn.com/images/fb-story-icon.jpg" width="20px"/></a>
-  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/223552"><img src="https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png" width="20px"/></a>
+  <a href="https://www.linkedin.com/in/arthursiq5/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" height="20px"/></a>
+  <a href="https://quackredacao.com.br/"><img src="https://img.icons8.com/doodle/48/000000/rubber-duck.png" height="20px"/></a>
+  <a href="https://www.sololearn.com/Profile/1548120"><img src="https://www.sololearn.com/images/fb-story-icon.jpg" height="20px"/></a>
+  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/223552"><img src="https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png" height="20px"/></a>
 </p>
 
    [univates]: https://www.univates.br/
