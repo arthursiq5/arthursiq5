@@ -21,6 +21,7 @@ My favorite languages are:
 - [RaccoonPo (Jokenpo)][RaccoonPo] [source][RaccoonPo source]
 - [Rock Paper Scissors in Vanilla JS][rock-paper-scissors-js] [source][rock-paper-scissors-js source]
 - [Pokédex with vanilla JS][vanilla-pokedex] [source][vanilla-pokedex source]
+- [URI Online Judge - my answers][uri online judge]
 
 </details>
 
@@ -36,6 +37,7 @@ Let's change the world together? 🌎
   <a href="https://www.linkedin.com/in/arthursiq5/"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" width="20px"/></a>
   <a href="https://quackredacao.com.br/"><img src="https://img.icons8.com/doodle/48/000000/rubber-duck.png" width="20px"/></a>
   <a href="https://www.sololearn.com/Profile/1548120"><img src="https://www.sololearn.com/images/fb-story-icon.jpg" width="20px"/></a>
+  <a href="https://www.urionlinejudge.com.br/judge/pt/profile/223552"><img src="https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png" width="20px"/></a>
 </p>
 
    [univates]: https://www.univates.br/
@@ -47,4 +49,5 @@ Let's change the world together? 🌎
    [rock-paper-scissors-js source]: https://github.com/arthursiq5/rock-paper-scissors-js
    [vanilla-pokedex]: https://arthursiq5.github.io/vanilla-pokedex/
    [vanilla-pokedex source]: https://github.com/arthursiq5/vanilla-pokedex
+   [uri online judge]: https://github.com/arthursiq5/uri-online-judge
    
