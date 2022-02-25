@@ -30,7 +30,7 @@ I really like to learn and also new challenges. I like to teach too, even if I d
 Let's change the world together? 🌎
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursiq5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcaldeira)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursiq5)
 
 
 <p align="center">
