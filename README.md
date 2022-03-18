@@ -4,7 +4,7 @@ I'm a software engineering student who like to help people achieve their persona
 
 My hobbies are write to [Quack Redação][quack]🖋, watch live coding at YouTube and Twitch TV and build simple projects to test a concept, an idea, solve a problem or just for fun.
 
-I'm currently working at OneWeb, but I keep studying and perfecting my skills.
+I'm currently working at OneWeb, but I keep studying and inproving my skills.
 
 My favorite languages are:
 
