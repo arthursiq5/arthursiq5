@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineering student who like to help people achieve their personal goals 😀. In the moment, I am currently studying at [Univates][univates], but I also completed my technician at [EEEPE][eeepe]👨‍🎓.
+I'm a software engineering student who like to help people achieve their personal goals 😀. Currently, I am currently studying at [Univates][univates], but I also completed my technician at [EEEPE][eeepe]👨‍🎓.
 
 My hobbies are write to [Quack Redação][quack]🖋, watch live coding at YouTube and Twitch TV and build simple projects to test a concept, an idea, solve a problem or just for fun.
 
