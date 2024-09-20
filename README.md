@@ -2,7 +2,7 @@
 
 I'm a software engineering student who like to help people achieve their personal goals 😀. Currently, I am currently studying at [Univates][univates], but I also completed my technician at [EEEPE][eeepe]👨‍🎓.
 
-My hobbies are write to [Quack Redação][quack]🖋, watch live coding at YouTube and Twitch TV and build simple projects to test a concept, an idea, solve a problem or just for fun.
+My hobbies are watch live coding at YouTube and Twitch TV and build simple projects to test a concept, an idea, solve a problem or just for fun.
 
 I'm currently working at OneWeb, but I keep studying and inproving my skills.
 
